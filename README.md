@@ -1,4 +1,4 @@
-Discovers network information and publishes this information via Mosby's TCP.
+Discovers network information and publishes this information via Modbus TCP.
 
 Currently supports:
 - Internet speed test
